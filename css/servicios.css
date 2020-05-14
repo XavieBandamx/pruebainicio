@@ -1,0 +1,24 @@
+.about-services{
+    background: #f2f2f2;
+    padding-bottom: 30px;
+}
+.servicio-cont{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.servicio-ind{
+    width: 28%;
+    text-align: center;
+}
+.servicio-ind img{
+    width: 40%;
+    cursor: pointer;
+}
+.servicio-ind h3{
+    margin: 10px 0;
+}
+.servicio-ind p{
+    font-weight: 300;
+    text-align: justify;
+}
